@@ -1,2 +1,27 @@
-# Latihan-Pemrograman-Arduino-Lengkap
-Ditujukan untuk belajar dasar arduino secara otodidak dari nol
+# Latihan Pemrograman Arduino Lengkap (Bahasa Indonesia) Beserta penjelasan kodenya dan video hasilnya
+Ditujukan untuk belajar dasar arduino secara otodidak dari nol. 
+Latihan Project ini berisi:
+- Ebook Pengenalan dasar (sensor, pin, arsitektur, dll) dan pemrograman arduino
+- 17 Laporan latihan (sudah dikerjakan oleh saya) dalam 1 file .pdf
+- 17 Laporan video simulasi hardwarenya (dengan sensor, arau modul arduino lain) dalam 1 file .zip / .rar
+- 17 file sourcode per-project (beserta keteranganya)
+
+# Berikut ini daftar isi latihannya:
+- Latihan 1  :  LED Blinking ........................................................................................................     3 
+- Latihan 2  :  Trafic Light ............................................................................................................ 7 
+- Latihan 3  :  Interactive Trafic Light ........................................................................................         11 
+- Latihan 4  :  Pushbutton ...........................................................................................................    16 
+- Latihan 5  :  Pushbutton Switch ...............................................................................................         20 
+- Latihan 6  :  Two Button and LED ..........................................................................................             24 
+- Latihan 7  :  Light Sensor .........................................................................................................    30 
+- Latihan 8 :   Potensiometer ......................................................................................................      36 
+- Latihan 9  :  Servo ................................................................................................................... 40 
+- Latihan 10 : Kontrol Servo ......................................................................................................       45 
+- Latihan 11 : LCD 16x2 ............................................................................................................      49 
+- Latihan 12 : Ultrasonic.............................................................................................................    56 
+- Latihan 13 : Ultrasonic Reverse Warning System ...................................................................                      63 
+- Latihan 14 : Relay .................................................................................................................... 68 
+- Latihan 15 :  DHT Temperature and Humadity .......................................................................                      72 
+- Latihan 16 : Infrared ................................................................................................................  77 
+- Latihan 17 : Control LED Using Infrared ................................................................................                81
+
